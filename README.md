@@ -1,3 +1,6 @@
+
+[Uploading modern-abstract-technology-banner-template-260nw-2180924373.webp…]()
+
 <h1 align="center">Hi <img src="Hi.gif" width="32px" height="32px">, I'm Ashwin S</h1>
 <h3 align="center">Data Science Enthusiast. Student at PSG Tech.</h3>
 <div align="center">
